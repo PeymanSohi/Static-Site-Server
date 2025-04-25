@@ -1,4 +1,3 @@
-```markdown
 # 🌐 Static Website Deployment with Nginx and rsync
 
 ## 📘 Overview
